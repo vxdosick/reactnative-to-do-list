@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Learning1",
-    "slug": "Learning1",
+    "name": "to-do-list-v2",
+    "slug": "to-do-list-v2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
